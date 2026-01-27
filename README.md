@@ -1,6 +1,11 @@
 # UK Law MCP Server
 
+[![GitHub stars](https://img.shields.io/github/stars/sarahokafor-gif/uk-law-mcp?style=social)](https://github.com/sarahokafor-gif/uk-law-mcp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A comprehensive Model Context Protocol server providing AI assistants with access to free official UK legal sources. Built for legal research, case preparation, and practice management.
+
+**Created by [Sarah Okafor](https://sarahokafor.com) - Chambers of Sarah Okafor**
 
 ## Features
 
@@ -273,8 +278,26 @@ search_echr_cases("deprivation of liberty", article="5")
 
 ## Author
 
-Sarah Okafor - Chambers of Sarah Okafor
+**Sarah Okafor** - [Chambers of Sarah Okafor](https://sarahokafor.com)
 
 ## Licence
 
-MIT - Free to use, modify, and share.
+MIT License - Free to use, modify, and share.
+
+**Attribution Required:** If you use this software, please include the following attribution in your project:
+
+```
+UK Law MCP by Sarah Okafor (https://sarahokafor.com)
+```
+
+## Support
+
+If you find this useful, please:
+- Star this repository
+- Share with colleagues who may benefit
+- Report issues or suggest improvements
+
+## Connect
+
+- Website: [sarahokafor.com](https://sarahokafor.com)
+- GitHub: [@sarahokafor-gif](https://github.com/sarahokafor-gif)
